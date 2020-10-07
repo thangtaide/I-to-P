@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596470771 source:d:\vtca\i to p\bai7\a2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

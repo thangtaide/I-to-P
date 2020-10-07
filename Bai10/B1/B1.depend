@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597130411 source:d:\vtca\i to p\bai10\b1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
